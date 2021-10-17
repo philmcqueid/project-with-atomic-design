@@ -1,24 +1,17 @@
-# atomic-design
+# Projeto construi usando atomic design e typescript
 
-## Project setup
-```
-npm install
-```
+1. Primeira parte
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- construção dos átomos
 
-### Compiles and minifies for production
-```
-npm run build
-```
+2. Segunda parte
 
-### Lints and fixes files
-```
-npm run lint
-```
+- construção das células (header, etc...)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+3. Terceira parte
+
+- construção dos organismos
+
+4. Quarta parte
+
+- construção da template final
